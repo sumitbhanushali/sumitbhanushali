@@ -1,13 +1,14 @@
 <h1 align="center">Hi there, I'm Sumit</h1>
-<h3 align="center">A Backend developer who occasionally does Mobile Dev(Flutter). I love learning about Computer Science and Distributed Systems. I share my learnings in form of videos, blogs, courses and projects. My preferred language for Systems Programming is Rust and NodeJS/Deno for APIs</h3>
+<h3 align="center">A Full Stack developer specializing in NodeJS/Frappe for Backend, VueJS/Flutter for Frontend and DevOps.</h3>
+<h3 align="center">I love learning about Computer Science and Distributed Systems. I share my learnings in form of videos, blogs, courses and projects. My preferred language for Systems Programming is Rust</h3>
 
-- 🔭 I’m currently working on [Aariv](https://github.com/sumitbhanushali/aariv) and [Bloggo](https://github.com/sumitbhanushali/bloggo)
+- 🔥 Building awesome products at [Frappe](https://github.com/frappe)
+
+- 🔭 My side/hobby projects with blogs on implementation: [Aariv](https://github.com/sumitbhanushali/aariv) and [Bloggo](https://github.com/sumitbhanushali/bloggo)
 
 - 📝 I regularly write articles on my [Blog](https://blog.sumitbhanushali.com/)
 
 - 📝 I maintain all my tutorials at [repo](https://github.com/sumitbhanushali/tutorials)
-
-- 💬 Connect with me **for Consulting, Mentoring and Freelancing**
 
 - 🔥 Don't forget to subscribe [here](https://sumitbhanushali.substack.com/) to get newsletter about my latest published articles
 
